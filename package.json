@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-datepicker",
+  "version": "1.0.0",
+  "description": "This is a fork of Stefan Petre's [original code](http://www.eyecon.ro/bootstrap-datepicker/); thanks go to him for getting this thing started!",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raddevon/bootstrap-datepicker.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/raddevon/bootstrap-datepicker/issues"
+  },
+  "homepage": "https://github.com/raddevon/bootstrap-datepicker#readme"
+}
